@@ -13,3 +13,4 @@ Here is a growing collection and helpful commands to know when working with git.
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
 - [git status](./commands/Status.md)
+- [git clone](./commands/Clone.md)
